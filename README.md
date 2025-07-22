@@ -5,7 +5,7 @@ We analyze the most funded sectors, cities, and investors between 2015 and 2023 
 
 ---
 
-## 🔍 Objective
+## Objective
 
 - Analyze funding patterns over the years
 - Identify top-funded sectors and cities
@@ -14,7 +14,7 @@ We analyze the most funded sectors, cities, and investors between 2015 and 2023 
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 
 - Python
 - Pandas
@@ -25,7 +25,7 @@ We analyze the most funded sectors, cities, and investors between 2015 and 2023 
 
 ---
 
-## 🧹 Dataset
+## Dataset
 
 - **File Name:** `startup_funding.csv`
 - **Columns:**
@@ -38,16 +38,16 @@ We analyze the most funded sectors, cities, and investors between 2015 and 2023 
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
-- 💰 Most funding occurred in **2021**
-- 🚀 Top sectors include **Fintech**, **E-commerce**, and **Edtech**
-- 🏙️ Major startup hubs: **Bangalore**, **Mumbai**, and **Delhi**
-- 💸 Leading investors: **Sequoia Capital**, **Tiger Global**, **Accel Partners**
+-  Most funding occurred in **2021**
+-  Top sectors include **Fintech**, **E-commerce**, and **Edtech**
+-  Major startup hubs: **Bangalore**, **Mumbai**, and **Delhi**
+-  Leading investors: **Sequoia Capital**, **Tiger Global**, **Accel Partners**
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Indian_Startup_Funding_EDA/
@@ -58,7 +58,7 @@ Indian_Startup_Funding_EDA/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repository or download the project folder.
 2. Open `Indian_Startup_Funding_EDA.ipynb` using Jupyter Notebook.
@@ -66,9 +66,9 @@ Indian_Startup_Funding_EDA/
 
 ---
 
-## 📬 Contact
+##  Contact
 
-For any queries or collaborations, feel free to reach out:
+For any queries or collaborations, feel free to reach out.
 
 - GitHub: [(https://github.com/Darshiitaa)]
 - Email: [darshitapatel29605@gmail.com]
