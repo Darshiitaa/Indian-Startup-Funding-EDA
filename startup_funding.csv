@@ -1,0 +1,201 @@
+Date,StartupName,CityLocation,IndustryVertical,AmountInUSD,InvestorsName
+09-11-2019,Paytm,Chennai,E-commerce,145357163.4,SoftBank
+18-04-2020,Zomato,Hyderabad,Food Delivery,46498219.74,"Nexus Venture Partners, Kalaari Capital"
+23-06-2017,Paytm,Chennai,Food Delivery,154360164.5,"SoftBank, Blume Ventures"
+25-01-2015,Unacademy,Pune,Travel,141546977.2,"Kalaari Capital, Nexus Venture Partners, Tiger Global"
+04-08-2015,CureFit,Bangalore,Logistics,56905698.41,Tiger Global
+06-10-2021,Paytm,Kolkata,E-commerce,95848768.18,"Sequoia Capital, SoftBank, Matrix Partners"
+27-11-2015,Meesho,Delhi,Food Delivery,134735056.2,SoftBank
+24-05-2020,Unacademy,Chennai,Edtech,185683948.4,"Nexus Venture Partners, Sequoia Capital"
+01-11-2021,Razorpay,Pune,Food Delivery,87834290.04,"Nexus Venture Partners, Sequoia Capital"
+13-09-2022,Byju's,Kolkata,Food Delivery,176378951.4,Kalaari Capital
+07-08-2020,Razorpay,Ahmedabad,Edtech,93891597.84,"Nexus Venture Partners, Lightspeed"
+27-06-2016,Ola,Delhi,Travel,2115370.42,Lightspeed
+24-11-2015,Ola,Chennai,Retail,165781083.9,SoftBank
+16-06-2021,Razorpay,Gurgaon,Retail,31628874.69,SAIF Partners
+09-02-2016,Meesho,Mumbai,Food Delivery,153433280.8,"Accel Partners, Matrix Partners, Kalaari Capital"
+22-03-2019,Paytm,Noida,Travel,37166763.83,"Blume Ventures, Tiger Global"
+03-12-2015,Byju's,Ahmedabad,Travel,190017904.5,"Lightspeed, SAIF Partners, Accel Partners"
+01-07-2022,Ola,Mumbai,Fintech,98641417.4,"Lightspeed, Accel Partners, Blume Ventures"
+12-03-2022,Razorpay,Pune,Healthtech,41081143.11,"SAIF Partners, SoftBank, Sequoia Capital"
+13-06-2022,Unacademy,Hyderabad,Fintech,147143025.1,"Tiger Global, Accel Partners, Nexus Venture Partners"
+17-05-2017,PhonePe,Chennai,Logistics,20230696.3,Matrix Partners
+30-06-2022,Byju's,Ahmedabad,Food Delivery,24606304.7,Blume Ventures
+22-02-2021,Razorpay,Delhi,AI,118248663.6,"Matrix Partners, Kalaari Capital, Sequoia Capital"
+09-12-2020,Razorpay,Pune,E-commerce,104297097.9,SAIF Partners
+19-05-2016,Byju's,Ahmedabad,Healthtech,34524646.41,Nexus Venture Partners
+01-08-2017,Paytm,Pune,Logistics,170976775,"Blume Ventures, Sequoia Capital"
+25-06-2017,Byju's,Delhi,SaaS,73165444,"Lightspeed, Kalaari Capital, Sequoia Capital"
+24-07-2022,Razorpay,Delhi,Retail,137192657.3,Accel Partners
+07-09-2022,CureFit,Pune,E-commerce,132030932.2,Kalaari Capital
+19-07-2015,CureFit,Gurgaon,Food Delivery,97771642.07,"Accel Partners, Kalaari Capital"
+19-09-2015,Zomato,Chennai,E-commerce,11263224.4,"Tiger Global, SoftBank"
+05-02-2017,Byju's,Gurgaon,AI,100954872.6,Tiger Global
+10-04-2020,PhonePe,Mumbai,AI,85246759.02,"Blume Ventures, SAIF Partners, Kalaari Capital"
+23-02-2018,PhonePe,Pune,Travel,59420058.66,"Accel Partners, SAIF Partners, Nexus Venture Partners"
+01-10-2017,Unacademy,Pune,E-commerce,171153865.4,"Kalaari Capital, Sequoia Capital"
+04-04-2020,PhonePe,Mumbai,SaaS,27873763.49,"Lightspeed, SAIF Partners"
+14-06-2022,Byju's,Gurgaon,Fintech,62105802.81,"Kalaari Capital, SAIF Partners"
+15-12-2016,Zomato,Bangalore,Edtech,66709974.88,"Nexus Venture Partners, Sequoia Capital, Kalaari Capital"
+24-12-2022,Paytm,Delhi,Logistics,186123473.6,"Accel Partners, Tiger Global"
+21-03-2019,Meesho,Bangalore,Food Delivery,174531915.3,Kalaari Capital
+12-03-2017,PhonePe,Hyderabad,SaaS,17113975.97,"SoftBank, Sequoia Capital, Tiger Global"
+18-09-2019,Zomato,Ahmedabad,Fintech,162033561.1,"Accel Partners, Tiger Global, Matrix Partners"
+08-07-2021,Zomato,Noida,Food Delivery,26056081.35,Blume Ventures
+14-05-2021,Paytm,Hyderabad,Fintech,153583525.9,"Sequoia Capital, SoftBank"
+25-03-2020,Razorpay,Delhi,SaaS,21309911.78,Kalaari Capital
+18-07-2022,Paytm,Bangalore,AI,170629329.8,"Tiger Global, Sequoia Capital, Matrix Partners"
+05-07-2022,Zomato,Hyderabad,SaaS,167797424.4,"Accel Partners, Lightspeed"
+19-04-2022,Paytm,Chennai,AI,120738048.4,"Tiger Global, Sequoia Capital, Lightspeed"
+11-06-2019,Paytm,Pune,Food Delivery,50740475.53,SoftBank
+16-10-2017,Zomato,Kolkata,Fintech,27364743.39,Lightspeed
+22-08-2020,CureFit,Hyderabad,Fintech,170865730.9,Kalaari Capital
+07-02-2016,Paytm,Mumbai,AI,51136706.08,SAIF Partners
+30-07-2018,Byju's,Noida,AI,154055792.5,"Sequoia Capital, Kalaari Capital, Lightspeed"
+18-05-2015,Meesho,Ahmedabad,Fintech,4003500.39,"Tiger Global, SAIF Partners, Matrix Partners"
+29-06-2020,Paytm,Chennai,AI,29214159.37,"Lightspeed, Nexus Venture Partners, Blume Ventures"
+22-11-2021,Ola,Delhi,Edtech,6566781.6,"Sequoia Capital, SAIF Partners"
+22-02-2017,Zomato,Pune,AI,98121196.99,Blume Ventures
+11-08-2020,Unacademy,Gurgaon,Edtech,127765473.8,"Lightspeed, Kalaari Capital, Nexus Venture Partners"
+27-06-2022,Zomato,Chennai,Healthtech,58460486.55,"Blume Ventures, Kalaari Capital"
+12-11-2016,PhonePe,Bangalore,Retail,82822527.06,"Matrix Partners, SoftBank"
+17-12-2020,CureFit,Bangalore,Logistics,35333064.84,"SAIF Partners, SoftBank"
+09-11-2020,Razorpay,Gurgaon,AI,152848389.9,"Lightspeed, Sequoia Capital"
+16-09-2020,CureFit,Pune,Food Delivery,199603823.9,"Nexus Venture Partners, Matrix Partners, Blume Ventures"
+30-11-2017,Zomato,Gurgaon,SaaS,129150208,Sequoia Capital
+09-07-2019,Unacademy,Pune,Food Delivery,118119605.2,"Accel Partners, Tiger Global"
+24-12-2018,Meesho,Ahmedabad,E-commerce,88591596.62,SAIF Partners
+07-05-2015,Meesho,Ahmedabad,Food Delivery,10781063.98,Tiger Global
+07-01-2021,PhonePe,Gurgaon,Logistics,40493868.07,SoftBank
+15-12-2017,PhonePe,Delhi,Logistics,151814439.6,"Tiger Global, Lightspeed"
+02-11-2015,Zomato,Mumbai,Logistics,146618029.8,"SAIF Partners, Lightspeed"
+15-05-2021,Meesho,Chennai,AI,143881756.8,Matrix Partners
+13-09-2019,PhonePe,Ahmedabad,SaaS,186936362,"Nexus Venture Partners, SAIF Partners, Matrix Partners"
+03-10-2016,CureFit,Ahmedabad,AI,155824694.3,Sequoia Capital
+03-01-2020,Ola,Chennai,Edtech,138198547.1,"Accel Partners, SoftBank"
+06-01-2015,Meesho,Mumbai,Travel,18852004.87,"Accel Partners, SAIF Partners, Kalaari Capital"
+10-06-2015,CureFit,Gurgaon,Healthtech,177648064.2,"Accel Partners, Tiger Global"
+29-09-2021,Unacademy,Mumbai,Retail,142674148.5,"Blume Ventures, Nexus Venture Partners"
+20-05-2019,Unacademy,Mumbai,Travel,174917787.3,"Kalaari Capital, SoftBank, Accel Partners"
+24-09-2016,Zomato,Gurgaon,Edtech,186276978.8,"Tiger Global, SoftBank, SAIF Partners"
+26-10-2017,Byju's,Hyderabad,E-commerce,137651909.9,"Kalaari Capital, Lightspeed"
+11-03-2015,Zomato,Mumbai,Food Delivery,146845034.2,"Blume Ventures, Matrix Partners, Sequoia Capital"
+29-01-2022,PhonePe,Ahmedabad,Edtech,199370654.4,"Tiger Global, Kalaari Capital, SAIF Partners"
+16-12-2021,Byju's,Gurgaon,Logistics,80643026.02,"Nexus Venture Partners, Lightspeed, SoftBank"
+06-03-2018,Razorpay,Delhi,Fintech,55271138.94,"Blume Ventures, Sequoia Capital"
+06-04-2018,CureFit,Chennai,Retail,152625832.5,Blume Ventures
+27-02-2021,Byju's,Gurgaon,E-commerce,141578865.8,"Tiger Global, Sequoia Capital"
+08-06-2022,Razorpay,Ahmedabad,Edtech,143454691.7,Nexus Venture Partners
+17-09-2018,PhonePe,Gurgaon,Logistics,155168074.2,"Matrix Partners, Kalaari Capital, Blume Ventures"
+22-11-2022,CureFit,Ahmedabad,Food Delivery,117153276.5,Tiger Global
+19-05-2021,Razorpay,Hyderabad,Retail,19336751.48,SoftBank
+24-11-2016,Byju's,Mumbai,Food Delivery,190166293.1,Kalaari Capital
+20-11-2019,Unacademy,Chennai,Healthtech,58743870.95,"Accel Partners, SAIF Partners, SoftBank"
+20-07-2019,Unacademy,Hyderabad,Food Delivery,93005178.47,"Tiger Global, Matrix Partners, Sequoia Capital"
+22-01-2021,Meesho,Mumbai,Travel,176704252.3,"Nexus Venture Partners, Blume Ventures, Sequoia Capital"
+21-03-2016,PhonePe,Chennai,SaaS,118801454.7,"Matrix Partners, Accel Partners, Kalaari Capital"
+16-04-2022,Razorpay,Pune,Food Delivery,74083385.42,"Sequoia Capital, Kalaari Capital, Tiger Global"
+04-09-2016,Unacademy,Bangalore,Edtech,47705337.17,"SoftBank, Blume Ventures, Matrix Partners"
+28-04-2018,Paytm,Ahmedabad,Logistics,169865247.6,Tiger Global
+19-12-2017,CureFit,Hyderabad,Edtech,176777109.7,Blume Ventures
+27-08-2018,Zomato,Noida,Edtech,169449043.9,"Blume Ventures, Tiger Global"
+07-05-2022,Unacademy,Bangalore,Fintech,192286359.8,Matrix Partners
+17-02-2022,Zomato,Kolkata,Edtech,115461413.1,Matrix Partners
+21-12-2019,Byju's,Delhi,Logistics,13131432.61,Lightspeed
+10-05-2019,Ola,Noida,Food Delivery,152411252.3,Nexus Venture Partners
+12-08-2016,Unacademy,Noida,Travel,168239015.9,"Matrix Partners, Kalaari Capital"
+09-05-2017,Ola,Kolkata,Retail,54364004.96,Matrix Partners
+23-08-2017,Zomato,Chennai,Retail,110985664.9,"Lightspeed, Kalaari Capital"
+26-08-2019,PhonePe,Noida,E-commerce,117742859.8,Nexus Venture Partners
+18-02-2018,Meesho,Pune,Food Delivery,70390380.85,"Tiger Global, Blume Ventures, SAIF Partners"
+21-10-2017,Zomato,Gurgaon,SaaS,15667231.83,"Blume Ventures, SoftBank, Sequoia Capital"
+03-05-2021,Meesho,Mumbai,Edtech,161379890.3,"Kalaari Capital, SoftBank"
+09-08-2017,Zomato,Chennai,Fintech,129758140.8,Blume Ventures
+14-02-2020,PhonePe,Mumbai,Healthtech,125917374.3,"Kalaari Capital, Blume Ventures"
+01-12-2019,Swiggy,Delhi,Logistics,81032934.83,"Blume Ventures, SoftBank"
+24-08-2016,Ola,Gurgaon,Food Delivery,56396482.93,"Sequoia Capital, Blume Ventures, Lightspeed"
+24-11-2016,Paytm,Hyderabad,Edtech,83267711.47,Tiger Global
+18-12-2020,Byju's,Ahmedabad,Logistics,17204031.38,Nexus Venture Partners
+20-02-2021,Ola,Noida,AI,195381704.3,"Blume Ventures, Kalaari Capital"
+20-06-2020,Ola,Mumbai,Travel,155849254.7,Tiger Global
+11-04-2022,Zomato,Gurgaon,AI,169938374,"Nexus Venture Partners, Kalaari Capital"
+02-08-2021,Ola,Noida,Food Delivery,80946046.79,"Sequoia Capital, Tiger Global"
+05-04-2020,Ola,Hyderabad,Edtech,183332605.8,Blume Ventures
+25-09-2019,Razorpay,Mumbai,Travel,90843691.69,"SAIF Partners, Nexus Venture Partners, SoftBank"
+16-03-2019,Zomato,Bangalore,AI,172482770.8,"Kalaari Capital, Sequoia Capital"
+05-02-2019,PhonePe,Pune,Healthtech,173978295.7,"Nexus Venture Partners, SAIF Partners"
+24-07-2022,Unacademy,Kolkata,Healthtech,26855899.83,"Lightspeed, Tiger Global"
+10-10-2019,Ola,Bangalore,Fintech,185251216.3,"SoftBank, Blume Ventures, Accel Partners"
+18-11-2019,Byju's,Mumbai,Travel,164328051.2,"SAIF Partners, Lightspeed"
+13-12-2018,CureFit,Noida,Edtech,14734417.95,Tiger Global
+14-11-2018,Unacademy,Pune,Edtech,2127783.88,Tiger Global
+15-12-2020,Razorpay,Hyderabad,Travel,153606128.7,Tiger Global
+09-05-2021,Swiggy,Pune,Travel,11539927.84,Kalaari Capital
+24-12-2018,Zomato,Mumbai,E-commerce,124625920.2,"Kalaari Capital, SAIF Partners, Tiger Global"
+28-08-2017,Meesho,Bangalore,AI,79946229.7,"Tiger Global, Lightspeed, Matrix Partners"
+22-09-2016,Zomato,Delhi,Food Delivery,149033821.7,Accel Partners
+15-06-2020,Swiggy,Bangalore,SaaS,104935291.5,Matrix Partners
+08-05-2019,Zomato,Ahmedabad,Logistics,90975308.42,"Kalaari Capital, Matrix Partners"
+17-01-2016,Meesho,Hyderabad,Logistics,131748569.4,"Blume Ventures, Accel Partners, Kalaari Capital"
+11-05-2015,Ola,Pune,E-commerce,27243096.02,"Nexus Venture Partners, Lightspeed, SoftBank"
+05-02-2021,Meesho,Gurgaon,SaaS,62477354.6,"Lightspeed, Matrix Partners, Kalaari Capital"
+11-07-2018,Meesho,Hyderabad,Healthtech,112905900.9,"Lightspeed, SoftBank"
+11-07-2020,Zomato,Ahmedabad,AI,56096796.59,"Lightspeed, Kalaari Capital, SoftBank"
+13-01-2018,Unacademy,Bangalore,Food Delivery,108807475.6,"Matrix Partners, Kalaari Capital"
+04-03-2018,CureFit,Bangalore,Logistics,107493343.5,Sequoia Capital
+15-09-2020,Paytm,Hyderabad,Food Delivery,178288407,SAIF Partners
+28-03-2021,CureFit,Delhi,AI,165652495.3,Sequoia Capital
+20-11-2021,Zomato,Pune,SaaS,44188418.84,"Matrix Partners, SoftBank"
+09-08-2015,PhonePe,Delhi,Fintech,42557717.41,Kalaari Capital
+31-01-2019,Ola,Bangalore,AI,112904836.5,"Accel Partners, SAIF Partners"
+04-02-2015,PhonePe,Hyderabad,E-commerce,1233661.84,Kalaari Capital
+09-01-2021,Unacademy,Bangalore,Food Delivery,3426213.88,"Nexus Venture Partners, SoftBank"
+13-06-2020,Meesho,Delhi,Fintech,74672602.79,Sequoia Capital
+22-03-2021,Zomato,Hyderabad,SaaS,57208041.68,"Nexus Venture Partners, Accel Partners"
+05-07-2016,Ola,Bangalore,Healthtech,150661979.9,"Matrix Partners, Lightspeed, Sequoia Capital"
+14-09-2019,Ola,Ahmedabad,Retail,190443574.2,"Tiger Global, Matrix Partners, SAIF Partners"
+14-02-2017,Ola,Delhi,SaaS,171298307.7,Matrix Partners
+07-02-2020,PhonePe,Hyderabad,Fintech,97698254.1,Tiger Global
+13-05-2015,Zomato,Delhi,Food Delivery,61494649.9,Lightspeed
+20-08-2017,CureFit,Hyderabad,Fintech,83984760.92,"Sequoia Capital, Accel Partners, Matrix Partners"
+27-04-2017,Unacademy,Ahmedabad,E-commerce,105920392.7,"SAIF Partners, Blume Ventures"
+02-03-2021,Paytm,Bangalore,Healthtech,120340055.9,Lightspeed
+11-03-2022,CureFit,Kolkata,Healthtech,71883068.14,Sequoia Capital
+09-04-2022,CureFit,Ahmedabad,Fintech,66009961.25,"Accel Partners, Lightspeed, Sequoia Capital"
+04-08-2016,Ola,Ahmedabad,E-commerce,170371314.6,SoftBank
+24-09-2022,Zomato,Hyderabad,Travel,52053457.89,"Accel Partners, Sequoia Capital, Matrix Partners"
+29-04-2018,Zomato,Delhi,AI,34861156.44,Matrix Partners
+13-11-2021,PhonePe,Gurgaon,AI,63909633.06,Blume Ventures
+16-04-2021,Ola,Bangalore,Edtech,178025758.1,Sequoia Capital
+26-10-2020,Byju's,Bangalore,Travel,6719554.67,"SoftBank, Matrix Partners"
+12-04-2019,Paytm,Mumbai,Food Delivery,93026107.52,"Blume Ventures, Tiger Global, SoftBank"
+27-07-2019,PhonePe,Ahmedabad,Healthtech,141727457.6,"Lightspeed, Sequoia Capital"
+30-08-2015,Unacademy,Bangalore,Travel,62636552.97,Matrix Partners
+22-03-2017,Byju's,Kolkata,Retail,181797315.9,Nexus Venture Partners
+17-02-2018,Paytm,Chennai,Travel,46655142.27,Accel Partners
+13-05-2019,Paytm,Delhi,Food Delivery,143222859.8,"Accel Partners, Sequoia Capital"
+01-07-2018,Paytm,Bangalore,Food Delivery,50563679.81,Lightspeed
+29-06-2016,Swiggy,Pune,Food Delivery,108039696,"Lightspeed, Blume Ventures"
+27-09-2022,Paytm,Ahmedabad,Travel,57502518.34,"Accel Partners, Sequoia Capital"
+30-04-2021,Meesho,Mumbai,SaaS,71154518.72,"Blume Ventures, Tiger Global"
+20-01-2015,CureFit,Ahmedabad,AI,41608837.91,Lightspeed
+13-06-2017,Swiggy,Hyderabad,Retail,48252726.32,"Accel Partners, Lightspeed, SoftBank"
+09-08-2019,Zomato,Noida,Edtech,72231076.77,Tiger Global
+16-04-2016,Swiggy,Bangalore,Logistics,11131270.2,"Tiger Global, Accel Partners, Lightspeed"
+05-12-2018,Meesho,Ahmedabad,E-commerce,13745487.84,"Matrix Partners, Nexus Venture Partners"
+25-09-2020,Swiggy,Bangalore,AI,86840889.36,"Kalaari Capital, Matrix Partners, Blume Ventures"
+11-03-2020,Razorpay,Mumbai,SaaS,97946432.31,"Accel Partners, Tiger Global, Nexus Venture Partners"
+11-01-2020,Swiggy,Ahmedabad,Travel,65010842.81,SoftBank
+10-07-2020,Paytm,Ahmedabad,Edtech,32710847.17,"Matrix Partners, SoftBank, SAIF Partners"
+03-10-2021,CureFit,Kolkata,Travel,107899478.1,"SAIF Partners, Accel Partners, Nexus Venture Partners"
+02-08-2022,Zomato,Gurgaon,AI,198844745,"Accel Partners, SAIF Partners"
+21-09-2020,PhonePe,Chennai,Food Delivery,51605433.63,Tiger Global
+23-08-2016,Meesho,Mumbai,AI,55441950.86,SoftBank
+03-09-2017,PhonePe,Hyderabad,AI,145393305.1,"Tiger Global, Accel Partners, Kalaari Capital"
+20-01-2019,Unacademy,Pune,SaaS,127550726.1,"Matrix Partners, Blume Ventures, SoftBank"
+26-04-2018,Razorpay,Ahmedabad,E-commerce,172265872.8,"Kalaari Capital, Accel Partners"
+10-04-2017,PhonePe,Chennai,Edtech,166123344.7,"Lightspeed, Matrix Partners"
+17-04-2021,Zomato,Gurgaon,AI,109529422.6,"SAIF Partners, Accel Partners"
+10-06-2020,Byju's,Delhi,Food Delivery,145504039.9,SoftBank
+10-01-2016,Byju's,Gurgaon,AI,9172610.35,"Tiger Global, Kalaari Capital, Accel Partners"
+01-09-2022,Meesho,Bangalore,Food Delivery,55246043.91,"Accel Partners, Nexus Venture Partners, Kalaari Capital"
